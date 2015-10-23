@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import asyncore, socket, processor
 
 LPD_PORT = 515
